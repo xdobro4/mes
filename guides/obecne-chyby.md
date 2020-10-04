@@ -4,10 +4,16 @@
 úvod, závěr a abstrakt se píší až úplně na závěr! to je to poslední na čem budete pracovat.
 :::
 
-## todo jak začít
+## jak začít
 osnova až na odstavce
 
 každá první věta musí dávat smysl i bez zbytku odstavce
+
+Rychlý úvod do LaTexu [naleznete zde](/a-quick-guide-to-latex.pdf).
+
+## Šablona závěrečné práce FIM-UHK pro latex
+
+[https://github.com/xdobro4/uhk-thesis-latex-template](https://github.com/xdobro4/uhk-thesis-latex-template)
 
 ## abstrakt
 do abstraktu patří:
@@ -83,7 +89,7 @@ výsledek:
 
 ti co používájí word se musí spolehnout jen na sebe :|.
 
-## todo citování
+## citování
 
 citování je několik možností. já používám tyhle 3 základní formy.
 
@@ -123,13 +129,13 @@ jsou 2 typy seznamů:
 
 ```latex
 \begin{itemize}
-    \item volba a nastavení trhu.
-    \item nastavení křivek poptávek segmentů.
-    \item nastavení ubytovacího zařízení, včetně kapacity a služeb.
-    \item volba a nastavení distribučních kanálů.
-    \item nastavení časového rámce hry, včetně počtu dní malého a velkého cyklu.
-    \item nastavení rozpočtu a výkonnostních cílů hotelu.
-    \item nastavení distribuce a cancellation-rate.
+    \item Volba a nastavení trhu.
+    \item Nastavení křivek poptávek segmentů.
+    \item Nastavení ubytovacího zařízení, včetně kapacity a služeb.
+    \item Volba a nastavení distribučních kanálů.
+    \item Nastavení časového rámce hry, včetně počtu dní malého a velkého cyklu.
+    \item Nastavení rozpočtu a výkonnostních cílů hotelu.
+    \item Nastavení distribuce a cancellation-rate.
 \end{itemize}
 ```
 

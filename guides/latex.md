@@ -8,11 +8,14 @@ Zamyslete se nad tím, jak moc dobře umíte v MS Wordu pracovat se styly. LaTex
 Závěrečnou práci Vám bez předchozí domluvy a vážného důvodu nebudu v jiném formátu než LaTex tolerovat.
 :::
 
-## TODO šablona
-dodám později, ale není třeba se bát psát. Titulní stránku atd doplníme nakonec.
+Rychlý úvod do LaTexu [naleznete zde](/a-quick-guide-to-latex.pdf).
+
+## Šablona závěrečné práce FIM-UHK pro latex
+
+[https://github.com/xdobro4/uhk-thesis-latex-template](https://github.com/xdobro4/uhk-thesis-latex-template)
 
 ::: tip
-Změna šablony v LaTexu je přepsání jednoho řádku. Co to znamená pro MS Word?
+Změna šablony v LaTexu je přepsání jednoho řádku. Kolik práce to obnáší v MS Word?
 :::
 
 ## Formátování

@@ -36,6 +36,19 @@ Takto pak vypadá vytvoření záznam v zoteru.
 
 ## Propojení zotero + LaTex
 
+### Automaticky pomocí external_url
+
+![login.png](../img/zotero-group-setting.png)
+
+Group ID neleznete v prohlížeči v adresním řádku.
+
+![login.png](../img/overleaf-with-zotero.png)
+
+A teď už jen prvidelně updatovat :).
+
+![login.png](../img/zotero-update.png)
+
+### Ručně
 
 ![login.png](../img/zot-latex-export.png)
 

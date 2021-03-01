@@ -6,6 +6,7 @@
 
 ```latex
 \usepackage{pgfplots}
+\usepackage{tikz}
 ```
 
 ```latex
